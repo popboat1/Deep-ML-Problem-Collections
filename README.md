@@ -1,0 +1,1 @@
+This repository contains my Jupyter Notebook solutions to various machine learning and deep learning challenges from Deep ML. The primary focus of these notebooks is on understanding the core mathematics and logic behind ML models by building them from the ground up.
